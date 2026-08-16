@@ -5,13 +5,13 @@
     "password": "",
     "type": "offline"
   },
-  "server": {Gryzole.aternos.me
+  "server": {
     "ip": "Gryzole.aternos.me",
     "port": 32682,
     "version": "1.21.4",
     "try-creative": false
   },
-  "position": {true,
+  "position": {
     "enabled": true,
     "x": 0,
     "y": 100,
